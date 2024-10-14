@@ -1,0 +1,123 @@
+
+
+p{
+  margin:0px;
+  font-size: 14px;
+  font-family: Arial;
+  text-align: left;
+  line-height: 30px;
+  word-wrap: break-word;
+}
+.heading{
+  font-family: 'Times New Roman';
+  font-size: 20px;
+  font-weight: bolder;
+  margin-bottom: 5px;
+  background-color: rgb(208, 237, 247);
+  color: black;
+
+}
+ .cv-enclosor {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 595px;
+  border-width: 2px;
+  border-color: lightpink;
+  border-style: solid;
+  padding-bottom: 50px;
+}
+
+.cv-left-side {
+  display: flex;
+  flex-direction: column;
+  width: 265px;
+  background-color: rgb(245, 246, 248);
+  margin-right: 20px;
+  padding-left: 30px;
+  border: none ;
+
+}
+
+.cv-right-side {
+  display: flex;
+  flex-direction: column;
+  width: 265px;
+  justify-content: space-between;
+  background-color: white;
+  margin-right: 20px;
+  padding-left: 30px;
+}
+.education{flex:auto;}
+.work-experience{flex:auto;}
+.soft-skills{flex:auto;}
+.career-objective{flex:auto;}
+.language{flex: auto;}
+
+.cv-pix {
+  flex: 1;
+  width: 80px;
+  height: 80px;
+  border-radius: 360%;
+
+}
+
+.pix-div {
+  display: block;
+  padding: 30px;
+ }
+ .name{flex:auto}
+ .contact{flex:auto}
+ .portfolio{flex:auto}
+ .hard-skill{flex:auto}
+ .tech-skill{flex:auto}
+ .interest{flex:auto}
+ .inside-interest{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+ }
+ .research{flex: 1;}
+ .travel{flex: 1;}
+ .reading{flex: 1;}
+ .writting{flex: 1;}
+ .mail{
+  margin-right: 8px;
+ }
+ .phone{
+  margin-right: 8px;
+ }
+ .loc{
+  margin-right: 8px;
+ }
+ .interest-images{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+}
+ 
+
+  li{
+    display: inline-block;
+    align-items: center;
+    flex-direction: column-reverse;
+  }
+  
+  .icons:before{
+    content:url(https://via.placeholder.com/200x100);
+  }
+  .icons{
+    margin-left: 20px;
+    margin-right: 20px;
+  }
+  .inst-heading{
+    margin-top: 0px;
+  }
+  body{
+    @media (min-width:800px) {
+      grid-template-columns: 1fr;
+      
+    }
+  }
+  
