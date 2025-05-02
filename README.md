@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm [Ibrahim Abdulraheem] 👋</h1>
+<h1 align="center">Hello, I'm Ibrahim Abdulraheem 👋</h1>
 
 <p align="center">
   <img src="[https://drive.google.com/file/d/1hb9auwijeAjUpAywWg2rLRGWzfxFb2Oc/view?usp=drive_link]" alt="Profile Picture" width="200" />
@@ -19,7 +19,7 @@
 - 💻 I am currently learning Backend Development through ALX.
 - ⚡ I thrive on solving challenges and creating backend APIs to improve daily activities.
 - 🎯 My goal is to leverage technology to help individuals and businesses solve their problems efficiently.
-- 📫 You can reach me via [ibabdul707@gmail.com] or connect on [www.linkedin.com/in/ibrahim-abdulraheem].
+- 📫 You can reach me via ibabdul707@gmail.com or connect on www.linkedin.com/in/ibrahim-abdulraheem.
 
 ---
 
@@ -38,11 +38,11 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[YourGitHubUsername]&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ibabdulraheem&show_icons=true&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[YourGitHubUsername]&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ibabdulraheem&theme=radical" />
 </p>
 
 ---
@@ -55,13 +55,13 @@ Here are some of my key projects:
 - 🔹 **Project Name** - How it solves real-world challenges.
 - 🔹 **Project Name** - Link to the repository.
 
-Check out my repositories [here](https://github.com/[YourGitHubUsername]).
+Check out my repositories [here](https://github.com/[ibabdulraheem]).
 
 ---
 
 ## 🌱 Learning & Growth
 
-- I am currently exploring [python and Django framework].
+- I am currently exploring python and Django framework.
 - Actively involved in open-source contributions and collaborative development.
 
 ---
