@@ -1,7 +1,7 @@
-<h1 align="center">Hello, I'm Ibrahim Abdulraheem 👋</h1>
+<h1 align="center">Hello, I'm [Your Name] 👋</h1>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ibabdulraheem&theme=radicalhttps://github-readme-streak-stats.herokuapp.com/?user=ibabdulraheem&theme=radical" alt="Profile Picture" width="200" />
+  <img src="[YourImageURL]" alt="Profile Picture" width="200" />
 </p>
 
 <p align="center">
@@ -19,7 +19,7 @@
 - 💻 I am currently learning Backend Development through ALX.
 - ⚡ I thrive on solving challenges and creating backend APIs to improve daily activities.
 - 🎯 My goal is to leverage technology to help individuals and businesses solve their problems efficiently.
-- 📫 You can reach me via ibabdul707@gmail.com or connect on www.linkedin.com/in/ibrahim-abdulraheem.
+- 📫 You can reach me via [your email] or connect on [LinkedIn profile].
 
 ---
 
@@ -38,11 +38,11 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="" />
+  <img src="https://github-readme-stats.vercel.app/api?username=[YourGitHubUsername]&show_icons=true&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ibabdulraheem&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[YourGitHubUsername]&theme=radical" />
 </p>
 
 ---
@@ -55,13 +55,13 @@ Here are some of my key projects:
 - 🔹 **Project Name** - How it solves real-world challenges.
 - 🔹 **Project Name** - Link to the repository.
 
-Check out my repositories [here](https://github.com/[ibabdulraheem]).
+Check out my repositories [here](https://github.com/[YourGitHubUsername]).
 
 ---
 
 ## 🌱 Learning & Growth
 
-- I am currently exploring python and Django framework.
+- I am currently exploring [new frameworks/tools].
 - Actively involved in open-source contributions and collaborative development.
 
 ---
@@ -71,7 +71,7 @@ Check out my repositories [here](https://github.com/[ibabdulraheem]).
 Feel free to reach out if you'd like to collaborate or discuss IT solutions.
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/[www.linkedin.com/in/ibrahim-abdulraheem]">LinkedIn</a> |
-  <a href="mailto:[ibabdul707@gmail.com]">Email</a> |
-  <a href="https://github.com/[ibabdulraheem]">GitHub</a>
+  <a href="https://www.linkedin.com/in/[YourLinkedInProfile]">LinkedIn</a> |
+  <a href="mailto:[YourEmail]">Email</a> |
+  <a href="https://github.com/[YourGitHubUsername]">GitHub</a>
 </p>
