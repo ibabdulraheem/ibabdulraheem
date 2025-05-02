@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm [Your Name] 👋</h1>
+<h1 align="center">Hello, I'm Ibrahim  👋</h1>
 
 <p align="center">
   <img src="[YourImageURL]" alt="Profile Picture" width="200" />
