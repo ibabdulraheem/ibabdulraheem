@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Ibrahim  👋</h1>
 
 <p align="center">
-  <img src="[https://drive.google.com/file/d/1hb9auwijeAjUpAywWg2rLRGWzfxFb2Oc/view?usp=sharing]" alt="Profile Picture" width="200" />
+  <img src="https://drive.google.com/file/d/1hb9auwijeAjUpAywWg2rLRGWzfxFb2Oc/view?usp=sharing" alt="Profile Picture" width="200" />
 </p>
 
 <p align="center">
