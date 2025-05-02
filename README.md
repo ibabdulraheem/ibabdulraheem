@@ -1,73 +1,77 @@
-<div align="center">
-  <img src="https://drive.google.com/file/d/1hb9auwijeAjUpAywWg2rLRGWzfxFb2Oc/view?usp=drive_link" alt="Your Profile Picture" width="150" style="border-radius: 50%;">
-  <h1>Hi there 👋, I'm ibabdulraheem</h1>
-  <p>A passionate Backend Development learner at ALX, driven by the desire to leverage Information Technology to solve complex problems.</p>
-</div>
+<h1 align="center">Hello, I'm [Ibrahim Abdulraheem] 👋</h1>
 
-<br>
-
-<h3>🚀 What Drives Me</h3>
-<p>The power of technology to simplify and improve lives truly inspires me. I am particularly drawn to the intricacies of backend development and its potential to create robust and scalable solutions.</p>
-
-<br>
-
-<h3>🎯 My Goal</h3>
-<p>My aim is to contribute meaningfully to projects by building efficient and reliable backend APIs that directly address and solve people's everyday challenges.</p>
-
-<br>
-
-<h3>🛠️ Technologies & Skills</h3>
-<p>
-  <code>&lt;img height="20" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /&gt;</code>
-  <code>&lt;img height="20" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /&gt;</code>
-  <code>&lt;img height="20" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /&gt;</code>
-  <code>&lt;img height="20" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" /&gt;</code>
-  <code>&lt;img height="20" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" /&gt;</code>
-  <code>&lt;img height="20" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /&gt;</code>
-  <code>&lt;img height="20" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /&gt;</code>
-  <code>&lt;img height="20" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /&gt;</code>
-  <code>&lt;img height="20" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /&gt;</code>
-  <br>
-  ... (Add more technologies and skills as you learn them!)
+<p align="center">
+  <img src="[https://drive.google.com/file/d/1hb9auwijeAjUpAywWg2rLRGWzfxFb2Oc/view?usp=drive_link]" alt="Profile Picture" width="200" />
 </p>
 
-<br>
-
-<h3>🌱 Currently Learning</h3>
-<p>As part of the ALX Backend Development program, I am currently focusing on deepening my understanding of [mention specific technologies or concepts you're learning, e.g., RESTful API design, database optimization, server-side security].</p>
-
-<br>
-
-<h3>💼 Projects</h3>
-<p>
-  Here are a few projects I'm proud of:
-  <ul>
-    <li><a href="YOUR_PROJECT_1_LINK"><strong>Project Title 1:</strong></a> Brief description of the project and its purpose. (Mention technologies used)</li>
-    <li><a href="YOUR_PROJECT_2_LINK"><strong>Project Title 2:</strong></a> Concise explanation of the project's goal and your contributions. (Highlight key features)</li>
-    <li>... (Add more projects as you build them!)</li>
-  </ul>
+<p align="center">
+  <b>Backend Developer | Problem Solver | IT Enthusiast</b>
 </p>
 
-<br>
-
-<h3>🤝 Let's Connect</h3>
-<p>
-  <a href="www.linkedin.com/in/ibrahim-abdulraheem">
-    <img align="left" alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/linkedin.svg" />
-  </a>
-  <a href="https://x.com/AyigoroIbrahim?s=09">
-    <img align="left" alt="Twitter" width="22px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/twitter.svg" />
-  </a>
-  <a href="YOUR_PORTFOLIO_URL">
-    <img align="left" alt="Portfolio" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/world/world-original.svg" />
-  </a>
-  <br>
-  Feel free to connect and explore potential collaborations!
+<p align="center">
+  Passionate about using IT to solve complex problems and improve people’s lives.
 </p>
 
-<br>
+---
 
-<hr>
-<div align="center">
-  <p>Last updated: May 2, 2025</p>
-</div>
+## 🚀 About Me
+
+- 💻 I am currently learning Backend Development through ALX.
+- ⚡ I thrive on solving challenges and creating backend APIs to improve daily activities.
+- 🎯 My goal is to leverage technology to help individuals and businesses solve their problems efficiently.
+- 📫 You can reach me via [ibabdul707@gmail.com] or connect on [www.linkedin.com/in/ibrahim-abdulraheem].
+
+---
+
+## 🛠 Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=[YourGitHubUsername]&show_icons=true&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[YourGitHubUsername]&theme=radical" />
+</p>
+
+---
+
+## 🎯 Projects
+
+Here are some of my key projects:
+
+- 🔹 **Project Name** - A brief description of what it does.
+- 🔹 **Project Name** - How it solves real-world challenges.
+- 🔹 **Project Name** - Link to the repository.
+
+Check out my repositories [here](https://github.com/[YourGitHubUsername]).
+
+---
+
+## 🌱 Learning & Growth
+
+- I am currently exploring [python and Django framework].
+- Actively involved in open-source contributions and collaborative development.
+
+---
+
+## 📬 Get in Touch
+
+Feel free to reach out if you'd like to collaborate or discuss IT solutions.
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/[www.linkedin.com/in/ibrahim-abdulraheem]">LinkedIn</a> |
+  <a href="mailto:[ibabdul707@gmail.com]">Email</a> |
+  <a href="https://github.com/[ibabdulraheem]">GitHub</a>
+</p>
