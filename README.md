@@ -1,8 +1,7 @@
 <h1 align="center">Hello, I'm Ibrahim  👋</h1>
 
 <p align="center">
-  <img src="[IB001-pica (1)](https://github.com/user-attachments/assets/136ad730-80eb-4871-a2f9-ffded733bac7)
-" width="200" />
+  <img src="[IB001-pica (1)](https://github.com/user-attachments/assets/136ad730-80eb-4871-a2f9-ffded733bac7)" width="200" />
 </p>
 
 <p align="center">
